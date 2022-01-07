@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 <!--START_SECTION:waka-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-creyelman&hide=contribs,prs)
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordancreyelman)](https://github.com/anuraghazra/github-readme-stats)
