@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
 <!-- ubuntu -->
-[
+
 
 <!--START_SECTION:waka-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordan-creyelman&hide=contribs,prs)
