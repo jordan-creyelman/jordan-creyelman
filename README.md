@@ -15,7 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
+[![Statistiques GitHub d'Anurag](https://github-readme-stats.vercel.app/api jordan-creyelman=anuraghazra )](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
