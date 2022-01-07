@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--START_SECTION:waka-->
-[![Statistiques GitHub d'Anurag](https://github-readme-stats.vercel.app/api jordan-creyelman=anuraghazra )](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jordan-creyelman)](https://github.com/anuraghazra/github-readme-stats)
 <!--END_SECTION:waka-->
